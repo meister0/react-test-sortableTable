@@ -1,3 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Src тестового задания №2 компании Creative
 
-# src тестового задания №2 компании Creative
+### Stack:  
+* React.js
+* JS
+
