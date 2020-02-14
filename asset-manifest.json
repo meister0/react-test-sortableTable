@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/creative-test-table/static/css/main.431bcb65.chunk.css",
-    "main.js": "/creative-test-table/static/js/main.58f0d9de.chunk.js",
-    "main.js.map": "/creative-test-table/static/js/main.58f0d9de.chunk.js.map",
-    "runtime-main.js": "/creative-test-table/static/js/runtime-main.45aee94f.js",
-    "runtime-main.js.map": "/creative-test-table/static/js/runtime-main.45aee94f.js.map",
-    "static/js/2.be8a28b1.chunk.js": "/creative-test-table/static/js/2.be8a28b1.chunk.js",
-    "static/js/2.be8a28b1.chunk.js.map": "/creative-test-table/static/js/2.be8a28b1.chunk.js.map",
-    "index.html": "/creative-test-table/index.html",
-    "precache-manifest.5ed47b8f9e7e77ad2f2ee05dc272a7ca.js": "/creative-test-table/precache-manifest.5ed47b8f9e7e77ad2f2ee05dc272a7ca.js",
-    "service-worker.js": "/creative-test-table/service-worker.js",
-    "static/css/main.431bcb65.chunk.css.map": "/creative-test-table/static/css/main.431bcb65.chunk.css.map",
-    "static/js/2.be8a28b1.chunk.js.LICENSE.txt": "/creative-test-table/static/js/2.be8a28b1.chunk.js.LICENSE.txt"
+    "main.css": "/react-test-sortableTable/static/css/main.431bcb65.chunk.css",
+    "main.js": "/react-test-sortableTable/static/js/main.089c7256.chunk.js",
+    "main.js.map": "/react-test-sortableTable/static/js/main.089c7256.chunk.js.map",
+    "runtime-main.js": "/react-test-sortableTable/static/js/runtime-main.6ae6e9bc.js",
+    "runtime-main.js.map": "/react-test-sortableTable/static/js/runtime-main.6ae6e9bc.js.map",
+    "static/js/2.be8a28b1.chunk.js": "/react-test-sortableTable/static/js/2.be8a28b1.chunk.js",
+    "static/js/2.be8a28b1.chunk.js.map": "/react-test-sortableTable/static/js/2.be8a28b1.chunk.js.map",
+    "index.html": "/react-test-sortableTable/index.html",
+    "precache-manifest.a35b069aed56e4817b6a12ae1382832f.js": "/react-test-sortableTable/precache-manifest.a35b069aed56e4817b6a12ae1382832f.js",
+    "service-worker.js": "/react-test-sortableTable/service-worker.js",
+    "static/css/main.431bcb65.chunk.css.map": "/react-test-sortableTable/static/css/main.431bcb65.chunk.css.map",
+    "static/js/2.be8a28b1.chunk.js.LICENSE.txt": "/react-test-sortableTable/static/js/2.be8a28b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45aee94f.js",
+    "static/js/runtime-main.6ae6e9bc.js",
     "static/js/2.be8a28b1.chunk.js",
     "static/css/main.431bcb65.chunk.css",
-    "static/js/main.58f0d9de.chunk.js"
+    "static/js/main.089c7256.chunk.js"
   ]
 }
