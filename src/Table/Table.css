@@ -1,0 +1,16 @@
+table {
+  width: 273px;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px;
+  border: 1px solid black;
+  min-width: 20px;
+  text-align: center;
+}
+
+.selected {
+  background-color: salmon;
+}

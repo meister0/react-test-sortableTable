@@ -1,0 +1,14 @@
+.buttons {
+  margin: auto;
+  width: 240px;
+}
+
+button {
+  margin: 5px 5px 5px 5px;
+  width: 70px;
+  height: 35px;
+  font-size: 13pt;
+  border-radius: 25px;
+  outline: none;
+  background-color: #e0e0e0;
+}
