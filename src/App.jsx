@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Table from './Table/Table';
-import Buttons from './Buttons/Buttons';
-import DataSearch from './DataSearch/DataSearch';
+import { Table, Buttons, DataSearch } from './components/index.js';
 
 class App extends Component {
 	state = {
@@ -99,22 +97,22 @@ class App extends Component {
 	};
 
 	render() {
-		const state = this.state;
+		const { info, sortType, activeColumn } = this.state;
 		return (
 			<div className="App">
 				<Buttons
-					child={state.sortType}
-					activeColumn={state.activeColumn}
+					child={sortType}
+					activeColumn={activeColumn}
 					columnSort={this.columnSort}
 				/>
 				<Table
-					data={state.info}
-					activeColumn={state.activeColumn}
+					data={info}
+					activeColumn={activeColumn}
 					updateData={this.updateData.bind(this)}
 				/>
 				<DataSearch
 					data={this.copiedInfo}
-					columnIndex={state.activeColumn}
+					columnIndex={activeColumn}
 					updateData={this.updateData.bind(this)}
 				/>
 				<span>
