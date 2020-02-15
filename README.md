@@ -1,3 +1,3 @@
-# Build версия тестового задания №2 компании Creative
+# Build version.
 
 ## Src : https://github.com/meister0/react-test-sortableTable/tree/master
